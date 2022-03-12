@@ -1,0 +1,19 @@
+button{
+    background-color: rgb(52, 252, 252);
+    font-size: 17px;
+    padding: 10px 20px;
+    font-weight: 5000px;
+    letter-spacing: 1px;
+    color: rgb(17, 16, 16);
+}
+button:hover{
+    background-color: rgb(252, 252, 252);
+    color:rgb(4, 31, 31);
+    border-color: rgb(76, 225, 245);
+}
+form{
+    font-size: 30px;
+    background-color: rgb(189, 186, 185);
+}
+
+
